@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KLYC1
+- 👋 Hi, I’m Kelvin.
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python, SQL
 - 📫 
